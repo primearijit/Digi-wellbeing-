@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Digital Wellbeing</string>
+    <string name="widget_name">Digital Wellbeing</string>
+    <string name="widget_description">Shows screen time and top used apps</string>
+</resources>
